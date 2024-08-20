@@ -1,0 +1,198 @@
+*{
+    /* margin-right: 100px; */
+    row-gap: 35px;
+    overflow-x: hidden;
+    column-gap: 40px;
+    margin: 0%;
+    }
+
+    .info-1{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        a{
+            color: red;
+            text-decoration: none;
+        }
+    }
+
+    .background-pic{
+        background-image:url(./images/Rectangle\ 1.png);
+       width: 101%;
+       height: 500px;
+    }
+
+
+    .background-text{
+        color: white;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: large;
+        text-align: left;
+        justify-content: left;
+        padding-left: 30px;
+        padding-top: 190px;
+     
+    }
+
+    .button-up{
+        background-color: red;
+        width: 160px;
+height: 40px;
+
+display: flex;
+align-items: center;
+justify-content: center;
+border-radius: 15px;
+
+a{
+    text-decoration: none;
+}
+    }
+
+    
+.about-pic{
+    
+    background-image:url(./images/Group\ 20.jpg);
+    width: 50;
+    height: 404px;
+    background-repeat: no-repeat; 
+    margin-left: 10rem;
+
+}
+.pictures{
+    display: flex;
+    align-items: center;
+}
+.overview{
+    background-repeat: no-repeat;
+}
+
+  .text-pic{
+ background-image: url(./images/Ellipse\ 7.png);
+ height: 6600px;
+ background-repeat: no-repeat;
+}
+.backgroundtext{
+
+    a{
+display: flex;
+align-items: center;
+justify-content: center;
+border-radius: 15px;
+color: red;
+text-decoration: none;
+    }
+    
+} 
+
+.nicepic{
+    display: flex;
+    justify-content: center;
+    word-break: keep-all;
+    align-items: end;
+    animation: backwards;
+      align-items: end;
+      a{
+    padding: 10px;
+    text-decoration: none;
+    color: brown;
+    display:inline-flex;
+      }
+}
+
+.pictures{
+    margin-left: 10rem;
+    display: flex;
+    margin-bottom: 3rem;
+}
+.arrow{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: red;
+    gap: 10px;
+}
+
+.pic-good{
+    background-image: url(images/Ellipse\ 7.png);
+    height: 500px;
+    width: 400px;
+    background-repeat: no-repeat;
+}
+.good-text{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-left: 27px;
+    padding-bottom: 54px;
+    /* background-color: aqua; */
+    margin-left: 90px;
+    margin-top: -170px;
+}
+.newspic1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3rem;
+}
+.def{
+    color: red;
+    cursor: pointer;
+    font-size: 18px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.letter-{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.inpu{
+    width: 30rem;
+    border-radius: 5px;
+    border: none;
+    padding-left: 10px;
+    color: black;
+    height: 40px;
+}
+.to-1{
+font-size: 35px;
+color: rgb(250, 248, 248);
+}
+.btn-1{
+    width: 100px;
+    background-color: red;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    height: 40px;
+}
+.letter{
+    background-color: rgb(70, 68, 68);
+    height: 30vh;
+}
+.footer{
+    background-color: black;
+    height: 40vh;
+    color: azure;
+}
+.logo-footer{
+    display: flex;
+    gap: 10rem;
+    margin-left: 5rem;
+}
+.home-shit{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    list-style: none;
+}
+.holy{
+    list-style: none;
+    text-decoration: none;
+    color: aliceblue;
+}

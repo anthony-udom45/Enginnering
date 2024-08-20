@@ -1,0 +1,156 @@
+*{
+    /* margin-right: 100px; */
+    row-gap: 35px;
+    /* overflow: hidden; */
+    column-gap: 40px;
+    margin:0;
+   }
+   .info-1{
+       display: flex;
+       align-items: center;
+       a{
+        color: red;
+        text-decoration: none;
+        font-size: 20px;
+       }
+   }
+   .Background-pic{
+       background-image: url(images/Rectangle\ 1\ \(1\).png);
+       height: 350px;
+       margin: 0%;
+       /* background-repeat: no-repeat; */
+       a{
+           text-decoration: none;
+           color: white;
+           text-align: center;
+           justify-content: center;
+           display: flex;
+           align-items: center;
+           font-size: 90px;
+       }
+   }
+   .Background-text{
+       padding-top: 200px !important;
+   }
+   .pic-wise{
+       background-image: url(images/Rectangle\ 3.png);
+       height: 500px;
+       background-repeat: no-repeat; 
+   }
+   .picwise-text{
+       justify-content: center;
+       align-items: center;
+       text-align: center;
+       margin-left: 300px;
+       /* background-color: aqua; */
+       margin-top: 30px;
+       font-size: 2rem;
+   }
+   .pictures{
+    margin-left: 10rem;
+    display: flex;
+    margin-bottom: 3rem;
+    padding-right: 9rem;
+    justify-content: center;
+    align-items: center;
+}
+   .arrow{
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       text-align: center;
+       color: red;
+       gap: 10px;
+   }
+   .bibetext{
+       display: flex;
+       gap: 3rem;
+       margin-left: 83px;
+   }
+   
+   .arrow{
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       text-align: center;
+       color: red;
+       gap: 10px;
+   }
+   .teams{
+       display: flex;
+       align-items: center;
+      justify-content: center;
+      text-align: center;
+      gap: 4rem;
+   }
+   .team-1{
+       font-size: 20px;
+       color: red;
+   }
+   
+   .newspic1{
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       gap: 3rem;
+   }
+   .def{
+       color: red;
+       cursor: pointer;
+       font-size: 18px;
+       align-items: center;
+       justify-content: center;
+       text-align: center;
+   }
+   .letter-{
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+       justify-content: center;
+       text-align: center;
+   }
+   .inpu{
+       width: 30rem;
+       border-radius: 5px;
+       border: none;
+       padding-left: 10px;
+       color: black;
+       height: 40px;
+   }
+   .to-1{
+   font-size: 35px;
+   color: rgb(250, 248, 248);
+   }
+   .btn-1{
+       width: 100px;
+       background-color: red;
+       border-radius: 5px;
+       border: none;
+       cursor: pointer;
+       height: 40px;
+   }
+   .letter{
+       background-color: rgb(70, 68, 68);
+       height: 30vh;
+   }
+   .footer{
+       background-color: black;
+       height: 40vh;
+       color: azure;
+   }
+   .logo-footer{
+       display: flex;
+       gap: 10rem;
+       margin-left: 5rem;
+   }
+   .home-shit{
+       align-items: center;
+       justify-content: center;
+       text-align: center;
+       list-style: none;
+   }
+   .holy{
+       list-style: none;
+       text-decoration: none;
+       color: aliceblue;
+   }
